@@ -1,7 +1,7 @@
 ### Hey there! 👋
 There are a few facts about me that might be interesting for you to know me better
 
-- 🔭 I’m currently working on BI projects for my postgraduate **BI and Analytics** degree, and willing to deliver data information to Upwork clients;
+- 🔭 I’m currently working on BI projects for my **postgraduate BI and Analytics** degree, and willing to deliver data information to Upwork clients as freelancer;
 
 - 🌱 I’m currently learning Power BI, Tableau, Google Data Studio, Statistics and theoretical concepts of Business Intelligence and Analytics;
 
@@ -17,10 +17,10 @@ There are a few facts about me that might be interesting for you to know me bett
   
   * Linkedin: (https://www.linkedin.com/in/passoseduardo/)
   
-  * Skype: eduardopassos1
-  
   * e-mail: eduardosteps@gmail.com
   
-- 😄 Nicknames: You can call me Du, Dudu, Edu or Duda. Pick one or many hahahah
+  * Skype: eduardopassos1
+    
+- 😄 Nicknames: You can call me Du, Dudu, Edu or Duda. Pick one or many =P
 
 - ⚡ Fun fact: I'm an open nerd, and I'll love to talk about technologies and sci-fi with you. Oh! and I listen the same song over and over again =D
