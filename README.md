@@ -1,7 +1,7 @@
 ### Hey there! 👋
 There are a few facts about me that might be interesting for you to know me better
 
-- 🔭 I’m currently working on BI projects for my **postgraduate BI and Analytics** degree, and willing to deliver data information to Upwork clients as freelancer;
+- 🔭 I’m currently working on BI projects for my **postgraduate BI and Analytics degree**, and willing to deliver data information to Upwork clients as freelancer;
 
 - 🌱 I’m currently learning Power BI, Tableau, Google Data Studio, Statistics and theoretical concepts of Business Intelligence and Analytics;
 
