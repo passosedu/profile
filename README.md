@@ -3,9 +3,9 @@ There are a few facts about me that might be interesting for you to know me bett
 
 - 🔭 I’m currently working on BI projects for my **postgraduate BI and Analytics degree**, and willing to deliver data information to Upwork clients as freelancer;
 
-- 🌱 I’m currently learning Power BI, Tableau, Google Data Studio, Statistics and theoretical concepts of Business Intelligence and Analytics;
+- 🌱 I’m currently improving knowledge in Power BI, Tableau, Google Data Studio, Python, Statistics and theoretical concepts of Business Intelligence and Analytics;
 
-- 👯 I’m looking to collaborate on any volunteer project or formal jobs that involves Data Science;
+- 👯 I’m looking to collaborate on any volunteer project and/or formal jobs that involves Data Science and BI;
 
 - 🤔 I’m looking for help with the first BI formal job opportunity;
 
