@@ -15,7 +15,7 @@ There are a few facts about me that might be interesting for you to know me bett
 
   * Phone: +55 71 98216-7883 (phone call or WhatsApp messages)
   
-  * Linkedin: (https://www.linkedin.com/in/passoseduardo/)
+  * Linkedin: https://www.linkedin.com/in/passoseduardo/
   
   * e-mail: eduardosteps@gmail.com
   
