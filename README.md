@@ -1,19 +1,19 @@
-### Hey there! 👋
-There are a few facts about me that might be interesting for you to know me better
+### E aííí! Seja bem-vindo ao meu portfólio! 😃
+Existem alguns fatos sobre mim que podem ser interessantes pra você me conhecer melhor:
 
-- 🔭 I’m currently working on BI projects for my **postgraduate BI and Analytics degree**, and willing to deliver data information to Upwork clients as freelancer;
+- 🔭 Atualmente estou trabalhando em projetos de BI para minha **pós-graduação em BI e Analytics** e disposto a fornecer informações de dados para clientes na Upwork como freelancer;
 
-- 🌱 I’m currently improving knowledge in Power BI, Tableau, Google Data Studio, Python, Statistics and theoretical concepts of Business Intelligence and Analytics;
+- 🌱 Atualmente estou aprimorando conhecimentos em Power BI, Tableau, Google Data Studio, Python, Estatística e conceitos teóricos de Business Intelligence e Analytics;
 
-- 👯 I’m looking to collaborate on any volunteer project and/or formal jobs that involves Data Science and BI;
+- 👯 Estou procurando colaborar em qualquer projeto de voluntariado e/ou empregos formais que envolvam Data Science e BI;
 
-- 🤔 I’m looking for help with the first BI formal job opportunity;
+- 🤔 Estou precisando de ajuda com a primeira oportunidade de emprego formal em BI;
 
-- 💬 Ask me about anything you wish, including about past jobs where I worked with geospatial data analysis and investigation using satellite imagery;
+- 💬 Pergunte-me o que quiser, incluindo trabalhos anteriores que atuei com análise e investigação de dados geoespaciais usando imagens de satélite, entre outros;
 
-- 📫 How to reach me:
+- 📫 Como entrar em contato comigo:
 
-  * Phone: +55 71 98216-7883 (phone call or WhatsApp messages)
+  * Telefone: +55 71 98216-7883 (ligação ou WhatsApp)
   
   * Linkedin: https://www.linkedin.com/in/passoseduardo/
   
@@ -21,6 +21,6 @@ There are a few facts about me that might be interesting for you to know me bett
   
   * Skype: eduardopassos1
     
-- 😄 Nicknames: You can call me Du, Dudu, Edu or Duda. Pick one or many =P
+- 😄 Apelidos: Você pode me chamar de Du, Dudu, Edu ou Duda. Escolha um ou vários =P
 
-- ⚡ Fun fact: I'm an open nerd, and I'll love to talk about technologies and sci-fi with you. Oh! and I listen the same song over and over again =D
+- ⚡ Curiosidade: sou um nerd assumido e vou curtir falar sobre tecnologias e ficção científica. Ah! Eu ouço a mesma música várias e várias vezes no spotify até enjoar haahah =D
