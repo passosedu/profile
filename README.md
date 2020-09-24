@@ -7,8 +7,6 @@ Existem alguns fatos sobre mim que podem ser interessantes pra você me conhecer
 
 - 👯 Estou procurando colaborar em qualquer projeto de voluntariado e/ou empregos formais que envolvam Data Science e BI;
 
-- 🤔 Estou precisando de ajuda com a primeira oportunidade de emprego formal em BI;
-
 - 💬 Pergunte-me o que quiser, incluindo trabalhos anteriores que atuei com análise e investigação de dados geoespaciais usando imagens de satélite, entre outros;
 
 - 📫 Como entrar em contato comigo:
