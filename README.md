@@ -3,11 +3,11 @@ Existem alguns fatos sobre mim que podem ser interessantes pra você me conhecer
 
 - 🔭 Atualmente estou trabalhando em projetos de BI para minha **pós-graduação em BI e Analytics** e disposto a fornecer informações de dados para clientes na Upwork como freelancer;
 
-- 🌱 Atualmente estou aprimorando conhecimentos em Power BI, Tableau, Google Data Studio, Python, Estatística e conceitos teóricos de Business Intelligence e Analytics;
+- 🌱 Estou aprimorando conhecimentos em Power BI, Tableau, Google Data Studio, Python, Estatística e conceitos teóricos de Business Intelligence e Big Data;
 
 - 👯 Estou procurando colaborar em qualquer projeto de voluntariado e/ou empregos formais que envolvam Data Science e BI;
 
-- 💬 Pergunte-me o que quiser, incluindo trabalhos anteriores que atuei com análise e investigação de dados geoespaciais usando imagens de satélite, entre outros;
+- 💬 Pergunte-me o que quiser, incluindo trabalhos anteriores que atuei com análise e investigação de dados geoespaciais usando imagens de satélite, entre outros projetos;
 
 - 📫 Como entrar em contato comigo:
 
