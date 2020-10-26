@@ -1,7 +1,7 @@
 ### E aííí! Seja bem-vindo ao meu portfólio! 😃
 Existem alguns fatos sobre mim que podem ser interessantes pra você me conhecer melhor:
 
-- Atualmente estou trabalhando em projetos de BI para minha **pós-graduação em BI e Analytics** e disposto a fornecer informações de dados para clientes na Upwork como freelancer;
+- Atualmente estou trabalhando em projetos de BI para minha **pós-graduação em BI e Analytics** e atendendo algumas demandas como freelancer;
 
 - Estou aprimorando conhecimentos em Power BI, Tableau, Google Data Studio, Python, Estatística e conceitos teóricos de Business Intelligence e Big Data;
 
