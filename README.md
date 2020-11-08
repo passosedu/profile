@@ -1,13 +1,13 @@
 ### E aííí! Seja bem-vindo ao meu portfólio! 😃
 Existem alguns fatos sobre mim que podem ser interessantes pra você me conhecer melhor:
 
-- Atualmente estou trabalhando em projetos de BI para minha **pós-graduação em BI e Analytics** e atendendo algumas demandas como freelancer;
+- Atualmente estou trabalhando em projetos com Dados para minha **pós-graduação em BI e Analytics** e atendendo algumas demandas como freelancer;
 
-- Estou aprimorando conhecimentos em Power BI, Tableau, Google Data Studio, Python, Estatística e conceitos teóricos de Business Intelligence e Big Data;
+- Estou aprimorando conhecimentos em Data Warehouse, Power BI, Tableau, Google Data Studio, Python, Estatística e conceitos teóricos de Business Intelligence e Big Data;
 
-- Estou procurando colaborar em qualquer projeto de voluntariado e/ou empregos formais que envolvam Data Science e BI;
+- Estou procurando colaborar em qualquer projeto de voluntariado e/ou emprego formal que envolva Data Science e BI;
 
-- Pergunte-me o que quiser, incluindo trabalhos anteriores que atuei com análise e investigação de dados geoespaciais usando imagens de satélite, entre outros projetos;
+- Pergunte-me o que quiser, incluindo trabalhos anteriores que atuei com análise e investigação de dados geoespaciais usando imagens de satélites e drones, extração de dados de redes sociais, entre outros;
 
 - Como entrar em contato comigo:
 
@@ -21,4 +21,4 @@ Existem alguns fatos sobre mim que podem ser interessantes pra você me conhecer
     
 - Apelidos: Você pode me chamar de Du, Dudu, Edu ou Duda. Escolha um ou vários =P
 
-- Curiosidade: sou um nerd assumido e vou curtir falar sobre tecnologias e ficção científica. Ah! Eu ouço a mesma música várias e várias vezes no spotify até enjoar haahah =D
+- Curiosidade: sou um nerd assumido, músico nas horas vagas, e vou curtir falar sobre tecnologias, ficção científica, música e esportes. Ah! Eu ouço a mesma música várias e várias vezes no spotify até enjoar haahah =D
