@@ -21,4 +21,4 @@ Existem alguns fatos sobre mim que podem ser interessantes pra você me conhecer
     
 - Apelidos: Você pode me chamar de Du, Dudu, Edu ou Duda. Escolha um ou vários =P
 
-- Curiosidade: sou um nerd assumido, músico nas horas vagas, e vou curtir falar sobre tecnologias, ficção científica, música e esportes. Ah! Eu ouço a mesma música várias e várias vezes no spotify até enjoar haahah =D
+- Curiosidade: sou um nerd assumido, músico nas horas vagas, e vou curtir falar sobre tecnologias, ficção científica, música e esportes (meu favorito é natação). Ah! Eu ouço a mesma música várias e várias vezes no spotify até enjoar haahah =D
