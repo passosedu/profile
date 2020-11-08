@@ -1,4 +1,4 @@
-### E aííí! Seja bem-vindo ao meu portfólio! 😃
+### E aííí! Seja bem-vindo(a) ao meu portfólio! 😃
 Existem alguns fatos sobre mim que podem ser interessantes pra você me conhecer melhor:
 
 - Atualmente estou trabalhando em projetos com Dados para minha **pós-graduação em BI e Analytics** e atendendo algumas demandas como freelancer;
