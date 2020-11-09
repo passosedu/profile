@@ -1,13 +1,11 @@
 ### E aííí! Seja bem-vindo(a) ao meu portfólio! 😃
 Existem alguns fatos sobre mim que podem ser interessantes pra você me conhecer melhor:
 
-- Atualmente estou trabalhando em projetos com Dados para minha **pós-graduação em BI e Analytics** e atendendo algumas demandas como freelancer;
+- Atualmente estou trabalhando como Analista de Dados e realizando projetos para minha **pós-graduação em BI e Analytics**;
 
-- Estou aprimorando conhecimentos em Data Warehouse, Power BI, Tableau, Google Data Studio, Python, Estatística e conceitos teóricos de Business Intelligence e Big Data;
+- Estou aprimorando conhecimentos em Microsoft Azure, Data Warehouse, Power BI, Tableau, Google Data Studio, Python, Estatística e conceitos teóricos de Business Intelligence e Big Data;
 
-- Estou procurando colaborar em qualquer projeto de voluntariado e/ou emprego formal que envolva Data Science e BI;
-
-- Pergunte-me o que quiser, incluindo trabalhos anteriores que atuei com análise e investigação de dados geoespaciais usando imagens de satélites e drones, extração de dados de redes sociais, entre outros;
+- Pergunte-me o que quiser, incluindo trabalhos anteriores e projetos que participei;
 
 - Como entrar em contato comigo:
 
