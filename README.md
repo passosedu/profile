@@ -3,7 +3,7 @@ Existem alguns fatos sobre mim que podem ser interessantes pra você me conhecer
 
 - Atualmente estou trabalhando como Analista de Dados e realizando projetos para minha **pós-graduação em BI e Analytics**;
 
-- Estou aprimorando conhecimentos em Data Engineering, Data Modeling, Data Warehouse, SQL, Python e conceitos de Business Intelligence;
+- Estou aprimorando conhecimentos em Azure Data Lake Storage, Data Warehouse, SQL, Python e conceitos de Business Intelligence;
 
 - Pergunte-me o que quiser, incluindo trabalhos anteriores e projetos que participei;
 
