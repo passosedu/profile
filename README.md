@@ -1,9 +1,9 @@
 ### E aííí! Seja bem-vindo(a) ao meu portfólio! 😃
 Existem alguns fatos sobre mim que podem ser interessantes pra você me conhecer melhor:
 
-- Atualmente estou trabalhando como Analista de Dados e realizando projetos para minha **pós-graduação em BI e Analytics**;
+- Atualmente estou trabalhando como Analista de Business Intelligence e realizando projetos para minha **pós-graduação em BI e Analytics**;
 
-- Estou aprimorando conhecimentos em Azure Data Lake Storage, Data Warehouse, SQL, Python e conceitos de Business Intelligence;
+- Estou aprimorando conhecimentos em Google Data Studio, Big Data, MongoDB, Python e conceitos de Business Intelligence;
 
 - Pergunte-me o que quiser, incluindo trabalhos anteriores e projetos que participei;
 
