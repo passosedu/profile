@@ -1,4 +1,4 @@
-### E aííí! Seja bem-vindo(a) ao meu portfólio! 😃
+### Relooouu! Seja bem-vindo(a) ao meu portfólio! 😃
 Existem alguns fatos sobre mim que podem ser interessantes pra você me conhecer melhor:
 
 - Atualmente estou trabalhando como Analista de Business Intelligence;
