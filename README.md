@@ -1,15 +1,15 @@
-### Relooouu! Seja bem-vindo(a) ao meu portfólio! 😃
-Existem alguns fatos sobre mim que podem ser interessantes pra você me conhecer melhor:
+### Hey theeere! Welcome to my portfolio! =D
+There are some facts about me that might be interesting for you to get to know me better:
 
-- Sou fascinado por ciência e tecnologia, sempre interessado em aprender coisas novas. Fluente em inglês e querendo aprender espanhol assim que sobrar mais tempo. =) E atualmente estou trabalhando como Analista de Business Intelligence;
+- I am fascinated by science and technology, always interested in learning new things. Fluent in English and I want to learn Spanish as soon as I have more time. =) And currently I'm working as a Business Intelligence Analyst;
 
-- Estou aprimorando conhecimentos em SQL, Google Data Studio, Python e conceitos de Business Intelligence;
+- I am improving my knowledge in SQL, Python and Business Intelligence concepts;
 
-- Pergunte-me o que quiser, incluindo trabalhos anteriores e projetos que participei;
+- Ask me anything you want, including previous works and projects I've participated in;
 
-- Como entrar em contato comigo:
+- How to reach me:
 
-  * Telefone: +55 71982167883 (aceito sua ligação ou WhatsApp em qualquer horário)
+  * Phone: +5571982167883 (I'll accept your call or WhatsApp message at any time)
   
   * Linkedin: https://www.linkedin.com/in/passoseduardo/
   
@@ -17,6 +17,6 @@ Existem alguns fatos sobre mim que podem ser interessantes pra você me conhecer
   
   * Skype: eduardopassos1
     
-- Apelidos: Você pode me chamar de Du, Dudu, Edu ou Duda. Escolha um ou vários =P
+- Nicknames: You can call me Du, Dudu, Edu, Duda, Ed... Choose one or several =P
 
-- Curiosidade: sou um cara bem humorado, músico nas horas vagas, vou curtir falar sobre investimentos, criptomoedas, tecnologia, ficção científica, música, séries e esportes (meus favoritos são natação e bike). Ah! Eu ouço a mesma música várias e várias vezes no spotify até enjoar haahah =D
+- Curiosity: I'm a good-humored guy, a musician in my spare time, I'm going to enjoy talking about investments, cryptocurrencies, technology, science fiction, music, series and sports (my favorites are swimming and biking). Oh! I listen to the same song over and over on Spotify until I get sick of it haahah =D
