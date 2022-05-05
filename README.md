@@ -1,13 +1,14 @@
 ### Hey theeere! Welcome to my portfolio! =D
 There are some facts about me that might be interesting for you to get to know me better:
 
-- I am fascinated by science and technology, always interested in learning new things. Fluent in English and I want to learn Spanish as soon as I have more time. =) And currently I'm working as a Business Intelligence Analyst;
+- Fascinated by science and technology, always interested in learning new things. Fluent in English and I want to learn Spanish as soon as I have more free time. =);
 
-- I am improving my knowledge in SQL, Python and Business Intelligence concepts;
+- Currently studying Data Science and improving knowledge in SQL and Tableau, aiming to support strategy of companies using an approach that combines processes, methodologies and tools to provide information and metrics from data extraction and visualization (ETL).
+;
 
-- Ask me anything you want, including previous works and projects I've participated in;
+- Ask me anything you want, including previous works and projects I've been in;
 
-- How to reach me:
+- How to reach me out:
 
   * Phone: +5571982167883 (I'll accept your call or WhatsApp message at any time)
   
@@ -15,7 +16,7 @@ There are some facts about me that might be interesting for you to get to know m
   
   * e-mail: eduardosteps@gmail.com
   
-  * Skype: eduardopassos1
+  * Skype/Teams: eduardopassos1
     
 - Nicknames: You can call me Du, Dudu, Edu, Duda, Ed... Choose one or several =P
 
