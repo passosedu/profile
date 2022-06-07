@@ -1,12 +1,11 @@
 ### Hey theeere! Welcome to my portfolio! =D
 There are some facts about me that might be interesting for you to get to know me better:
 
-- Fascinated by science and technology, always interested in learning new things. Fluent in English and I want to learn Spanish as soon as I have more free time. =);
+- Fascinated by science and technology, always interested in learning new things. Fluent in English and I want to learn Spanish as soon as I have more free time. =)
 
 - Currently studying Data Science and improving knowledge in SQL and Tableau, aiming to support strategy of companies using an approach that combines processes, methodologies and tools to provide information and metrics from data extraction and visualization (ETL).
-;
 
-- Ask me anything you want, including previous works and projects I've been in;
+- Ask me anything you want, including previous works and projects I've been in
 
 - How to reach me out:
 
