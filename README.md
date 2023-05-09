@@ -23,4 +23,4 @@ There are some facts about me that might be interesting for you to get to know m
 1) I'm a cryptocurrencies and trading enthusiast;
 2) I put powder milk on my coffee (this is such a crime between true coffee lovers);
 3) I learned English when I was in my twenties, just so I could watch Friends without subtitles;
-4) I challenge anyone to beat me in pool(snooker). xD
+4) I challenge anyone to beat me in pool (snooker). xD
