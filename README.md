@@ -7,7 +7,7 @@ There are some facts about me that might be interesting for you to get to know m
 
 - How to reach me out:
 
-  * Phone: +5571982167883 (I'll accept your call or WhatsApp message at any time)
+  * Phone: +5571982167883
   
   * Linkedin: https://www.linkedin.com/in/passoseduardo/
   
