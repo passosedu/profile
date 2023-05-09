@@ -1,4 +1,4 @@
-### Hey duuuude! Welcome to my portfolio! =D
+### Hey duuuude! Welcome to my portfolio! \o/
 There are some facts about me that might be interesting for you to get to know me better:
 
 - Fascinated by science and technology, always interested in learning new things. Fluent in English and I want to learn Spanish as soon as I have more free time. =)
@@ -22,4 +22,4 @@ There are some facts about me that might be interesting for you to get to know m
 - Curiosities: 
 1) I'm a cryptocurrencies and trading enthusiast;
 2) I put powder milk on my coffee (this is such a crime between true coffee lovers);
-3) I learned English when I was in my twenties, just so I could watch Friends without subtitles. =D
+3) I learned English when I was in my twenties, just so I could watch Friends without subtitles. xD
