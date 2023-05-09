@@ -1,4 +1,4 @@
-### Hey theeere! Welcome to my portfolio! =D
+### Hey duuuude! Welcome to my portfolio! =D
 There are some facts about me that might be interesting for you to get to know me better:
 
 - Fascinated by science and technology, always interested in learning new things. Fluent in English and I want to learn Spanish as soon as I have more free time. =)
@@ -17,4 +17,4 @@ There are some facts about me that might be interesting for you to get to know m
     
 - Nicknames: You can call me Du, Dudu, Edu, Duda, Ed... Choose one or several =P
 
-- Curiosity: I'm a good-humored guy, a musician in my spare time, I'm going to enjoy talking about investments, cryptocurrencies, technology, science fiction, music, series and sports (my favorites are swimming and biking). Oh! When I like some new song, I listen it over and over until I get sick of it hahah =D
+- Curiosities: I'm a pretty chill guy and I like to play guitar in my free time. I'm totally up to talk about investments, cryptocurrencies, traveling, tech, sci-fi, music, TV shows, movies, and sports (I'm currently into biking and doing some calisthenics exercises).
