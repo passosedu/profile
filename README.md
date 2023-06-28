@@ -11,7 +11,7 @@ There are some facts about me that might be interesting for you to get to know m
   
   * Linkedin: https://www.linkedin.com/in/passoseduardo/
   
-  * e-mail: eduardosteps@gmail.com
+  * e-mail: edupassos.py@gmail.com
   
   * Skype/Teams: eduardopassos1
     
