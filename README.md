@@ -17,10 +17,10 @@ There are some facts about me that might be interesting for you to get to know m
     
 - Nicknames: You can call me Du, Dudu, Edu, Duda, Ed... Choose one or several =P
 
-- I'm a pretty chill guy and I like to play guitar in my free time. I'm totally up to talk about investments, traveling, tech, sci-fi, music, TV shows, movies, and sports (I'm currently into biking and doing some calisthenics exercises).
+- I'm a chill guy and I like to play guitar and piano in my free time. I'm totally up to talking about investments, traveling, tech, sci-fi, music, TV shows, movies, and sports (I'm currently into biking and going to the gym to workout).
 
 - Curiosities: 
-1) I'm a cryptocurrencies and trading enthusiast;
-2) I put powder milk on my coffee (this is such a crime between true coffee lovers);
+1) I'm a cryptocurrency and trading enthusiast;
+2) I put powdered milk on my coffee (this is such a crime among true coffee lovers);
 3) I learned English when I was in my twenties, just so I could watch Friends without subtitles;
-4) I challenge anyone to beat me in pool (snooker). xD
+4) I challenge anyone to beat me in the snooker. xD
