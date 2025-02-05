@@ -26,4 +26,4 @@ There are some facts about me that might be interesting for you to get to know m
 4) I challenge anyone to beat me in the snooker. xD
 
 ### My historical contributions in the Organization's Repo (this page is not public. I only can see it when I'm logged in the organization, so I took a screenshot to show it here)
-<img src="img/organization_contributions.png">
+<img src="img/github_organization.png">
